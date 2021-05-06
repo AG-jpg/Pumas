@@ -1,0 +1,192 @@
+{
+    "goalkeepers": [
+        {
+            "name": "Alfredo",
+            "lastname": "Talavera",
+            "number": 1,
+            "position": "Goalkeeper",
+            "country": "Mexico",
+            "picture": "https://ligamx.net/cancha/jugador/22466/eyJpZENsdWIiOiAxOH0=/alfredo-talavera-diaz"
+        },
+        {
+            "name": "Julio",
+            "lastname": "González",
+            "number": 20,
+            "position": "Goalkeeper",
+            "country": "Mexico",
+            "picture": "https://ligamx.net/cancha/jugador/65970/eyJpZENsdWIiOiAxOH0=/julio-jose-gonzalez-vela-alvizu"
+        }
+    ],
+
+    "defenders": [
+        {
+            "name": "Alan",
+            "lastname": "Mozo",
+            "number": 2,
+            "position": "Defender",
+            "country": "Mexico",
+            "picture": "https://ligamx.net/cancha/jugador/104647/eyJpZENsdWIiOiAxOH0=/alan-mozo-rodriguez"
+        },
+        {
+            "name": "Luis",
+            "lastname": "Quintana",
+            "number": 4,
+            "position":"Defender",
+            "country":"Mexico",
+            "picture":"https://ligamx.net/cancha/jugador/76169/eyJpZENsdWIiOiAxOH0=/luis-fernando-quintana-vega"
+        },
+        {
+            "name": "Johan",
+            "lastname": "Vázquez",
+            "number": 5,
+            "position": "Defender",
+            "country": "Mexico",
+            "picture": "https://ligamx.net/cancha/jugador/111222/eyJpZENsdWIiOiAxOH0=/johan-felipe-vasquez-ibarra"
+        },
+        {
+            "name": "Jerónimo",
+            "lastname": "Rodríguez",
+            "number": 16,
+            "position": "Defender",
+            "country":"Mexico",
+            "picture": "https://ligamx.net/cancha/jugador/92814/eyJpZENsdWIiOiAxOH0=/jeronimo-rodriguez-guemes"
+        },
+        {
+            "name": "Jesús",
+            "lastname": "Rivas",
+            "number": 19,
+            "position":"Defender",
+            "country":"Mexico",
+            "picture": "https://ligamx.net/cancha/jugador/110802/eyJpZENsdWIiOiAxOH0=/jesus-andres-rivas-gutierrez"
+        },
+        {
+            "name": "Nicolás",
+            "lastname": "Freire",
+            "number": 23,
+            "position": "Defender",
+            "country": "Argentina",
+            "picture": "https://ligamx.net/cancha/jugador/139265/eyJpZENsdWIiOiAxOH0=/nicolas-omar-freire"
+        }
+    ],
+
+    "midfielders":[
+        {
+            "name": "Erik",
+            "lastname": "Lira",
+            "number": 6,
+            "position": "Midfielder",
+            "country":"Mexico",
+            "picture": "https://ligamx.net/cancha/jugador/98552/eyJpZENsdWIiOiAxOH0=/erik-antonio-lira-mendez"
+        },
+        {
+            "name": "Sebastián",
+            "lastname": "Saucedo",
+            "number": 7,
+            "position": "Midfielder",
+            "country": "Mexico",
+            "picture": "https://ligamx.net/cancha/jugador/116371/eyJpZENsdWIiOiAxOH0=/sebastian-saucedo-mondragon"
+        },
+        {
+            "name": "Favio",
+            "lastname": "Álvarez",
+            "number": 10,
+            "position": "Midfielder",
+            "country": "Argentina",
+            "picture": "https://ligamx.net/cancha/jugador/139626/eyJpZENsdWIiOiAxOH0=/favio-enrique-alvarez"
+        },
+        {
+            "name": "Facundo",
+            "lastname": "Waller",
+            "number": 12,
+            "position": "Midfielder",
+            "country": "Uruguay",
+            "picture": "https://ligamx.net/cancha/jugador/145927/eyJpZENsdWIiOiAxOH0=/facundo-federico-waller-martiarena"
+        },
+        {
+            "name": "Gerardo",
+            "lastname": "Moreno",
+            "number": 13,
+            "position": "Midfielder",
+            "country": "Mexico",
+            "picture": "https://ligamx.net/cancha/jugador/82385/eyJpZENsdWIiOiAxOH0=/gerardo-moreno-cruz"
+        },
+        {
+            "name": "Carlos",
+            "lastname": "Gutiérrez",
+            "number": 14,
+            "position": "Midfielder",
+            "country": "Mexico",
+            "picture": "https://ligamx.net/cancha/jugador/104964/eyJpZENsdWIiOiAxOH0=/carlos-gutierrez-estefa"
+        },
+        {
+            "name": "Leonel",
+            "lastname": "López",
+            "number": 17,
+            "position": "Midfielder",
+            "country": "Mexico",
+            "picture": "https://ligamx.net/cancha/jugador/86885/eyJpZENsdWIiOiAxOH0=/leonel-lopez-gonzalez"
+        },
+        {
+            "name": "Juan Pablo",
+            "lastname": "Vigón",
+            "number": 22,
+            "position": "Midfielder",
+            "country": "Mexico",
+            "picture": "https://ligamx.net/cancha/jugador/67103/eyJpZENsdWIiOiAxOH0=/juan-pablo-vigon-cham"
+        },
+        {
+            "name": "Amaury",
+            "lastname": "García",
+            "number": 24,
+            "position": "Midfielder",
+            "country": "Mexico",
+            "picture": "https://ligamx.net/cancha/jugador/104248/eyJpZENsdWIiOiAxOH0=/amaury-garcia-moreno"
+        }
+    ],
+
+    "strikers": [
+        {
+            "name": "Gabriel",
+            "lastname": "Torres",
+            "number": 8,
+            "position": "Striker",
+            "country": "Panama",
+            "picture": "https://ligamx.net/cancha/jugador/150186/eyJpZENsdWIiOiAxOH0=/gabriel-arturo-torres-tejada"
+        },
+        {
+            "name": "Juan Ignacio",
+            "lastname": "Dinenno",
+            "number": 9,
+            "position": "Striker",
+            "country": "Argentina",
+            "picture": "https://ligamx.net/cancha/jugador/144930/eyJpZENsdWIiOiAxOH0=/juan-ignacio-dinenno-de-cara"
+        },
+        {
+            "name": "Juan",
+            "lastname": "Iturbe",
+            "number": 11,
+            "position": "Striker",
+            "country": "Paraguay",
+            "picture": "https://ligamx.net/cancha/jugador/129207/eyJpZENsdWIiOiAxOH0=/juan-manuel-iturbe-arevalos"
+        },
+        {
+            "name": "Bryan",
+            "lastname": "Mendoza",
+            "number": 29,
+            "position": "Striker",
+            "country": "Mexico",
+            "picture": "https://ligamx.net/cancha/jugador/99927/eyJpZENsdWIiOiAxOH0=/bryan-mendoza-cruz"
+        }
+    ],
+
+    "staff": [
+        {
+            "name": "Andrés",
+            "lastname": "Lillini",
+            "number": null,
+            "position": "Coach",
+            "country": "Argentina",
+            "picture": "https://ligamx.net/cancha/cuerpotecnico/54385/eyJpZENsdWIiOiAxOH0=/andres-luciano-lillini"
+        }
+    ]
+}
